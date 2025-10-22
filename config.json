@@ -1,0 +1,8 @@
+{
+    "imports": {
+            "skus": {
+                "main": "C:\\ss_pro\\pySpace\\pipelines\\import\\skus\\sku_data.ipynb",
+                "log": "C:\\ss_pro\\pySpace\\pipelines\\import\\skus\\sku_data_rt.ipynb"
+            }
+    }
+}
